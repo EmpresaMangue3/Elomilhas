@@ -1,0 +1,5 @@
+Criação do repositorio Github para o Setor de Teste (Empresa Mangue3).
+Criado em: 07/03/2019
+Nome do repositorio: EmpresaMangue3
+Email de do repositorio cadastrado: janainafortunato@mangue3.com
+Senha do repositorio: mangue3.com
